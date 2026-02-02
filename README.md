@@ -1,4 +1,6 @@
-## Hi there 👋
+## 반갑다 👋
+
+깃허브 꾸며야되는데 귀찮다
 
 <!--
 **meanmaxx/meanmaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
