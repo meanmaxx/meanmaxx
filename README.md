@@ -1,11 +1,5 @@
 # 🚀 Minseok's Github
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Minseok%20Kwon&fontSize=70" />
-</p>
-
----
-
 ### 📚 Tech Stack
 
 **Languages**
@@ -21,8 +15,9 @@
 
 ### 💼 Career
 
-**2025.12 ~ present : Mirae Asset Life Insurance** | [cite_start]*AI Engineer* [cite: 23]
-**2025.08 ~ 2025.11 : The Boston Consulting Group (BCG)** | [cite_start]*Digital Research Assistant* [cite: 23]
+* **2025.12 ~ present : Mirae Asset Life Insurance** | [cite_start]*AI Engineer* [cite: 23]
+
+* **2025.08 ~ 2025.11 : The Boston Consulting Group (BCG)** | [cite_start]*Digital Research Assistant* [cite: 23]
 
 ---
 
