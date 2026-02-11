@@ -1,13 +1,8 @@
-# 🚀 안녕하세요, AI Engineer 권민석입니다!
+# 🚀 Minseok's Github
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Minseok%20Kwon&fontSize=70" />
 </p>
-
-### [cite_start]🛠 "Ideation & Try-Action" 실천하는 행동대장 [cite: 10]
-- [cite_start]**데이터 기반의 의사결정**을 선호하며, 복잡한 문제를 단순화하여 해결하는 과정에 희열을 느낍니다. [cite: 12]
-- [cite_start]**AI Skill**을 넘어 비즈니스 가치를 창출하는 **AI Architecture**로 성장하는 것이 목표입니다. [cite: 13]
-- [cite_start]스스로 아는 것과 모르는 것을 명확히 구분하며 끊임없이 학습합니다. [cite: 11]
 
 ---
 
@@ -24,12 +19,10 @@
 
 ---
 
-### 💼 Experience
+### 💼 Career
 
-**The Boston Consulting Group (BCG)** | [cite_start]*Digital Research Assistant* [cite: 23]
-* [cite_start]**제약사 영업 인사이트 AI System**: 고성과자 행동 분석 기반 Multi-Agent 모델 설계 및 구현 [cite: 25, 30]
-* [cite_start]**성능 최적화**: Redis bulk 캐싱을 도입하여 복잡한 쿼리로 인한 Time-out 이슈 해결 [cite: 34]
-* [cite_start]**LLM 정교화**: Context Engineering 및 Azure OpenAI SFT를 통한 답변 품질 개선 [cite: 32, 36]
+**2025.12 ~ present : Mirae Asset Life Insurance** | [cite_start]*AI Engineer* [cite: 23]
+**2025.08 ~ 2025.11 : The Boston Consulting Group (BCG)** | [cite_start]*Digital Research Assistant* [cite: 23]
 
 ---
 
@@ -50,12 +43,11 @@
 
 * [cite_start]**고려대학교 (Korea University)** [cite: 15]
   * [cite_start]산업경영공학 & 소프트웨어기술벤처융합 전공 [cite: 16]
-  * Total GPA: **3.99 / 4.5** | [cite_start]Major GPA: **4.06 / 4.5** [cite: 18, 19]
 * **Awards**
   * [cite_start]**K-Data Science Hackathon**: 한국지능정보사회진흥원장상 수상 (2024.11) [cite: 76, 77]
   * [cite_start]**Global Lincage Festival**: Best Promotion Film Award 수상 (2024.08) [cite: 79, 80]
 * **Licenses**
-  * [cite_start]ADsP (데이터분석 준전문가), SQLD (SQL 개발자) [cite: 82, 83]
+  * [cite_start]ADsP (데이터분석 준전문가), SQLD (SQL 개발자), OPIC (IH) [cite: 82, 83]
 
 ---
 
